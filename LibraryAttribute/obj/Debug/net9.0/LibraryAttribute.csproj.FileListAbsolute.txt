@@ -1,0 +1,11 @@
+E:\хаб\proghub\attributes\LibraryAttribute\bin\Debug\net9.0\LibraryAttribute.deps.json
+E:\хаб\proghub\attributes\LibraryAttribute\bin\Debug\net9.0\LibraryAttribute.dll
+E:\хаб\proghub\attributes\LibraryAttribute\bin\Debug\net9.0\LibraryAttribute.pdb
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\LibraryAttribute.GeneratedMSBuildEditorConfig.editorconfig
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\LibraryAttribute.AssemblyInfoInputs.cache
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\LibraryAttribute.AssemblyInfo.cs
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\LibraryAttribute.csproj.CoreCompileInputs.cache
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\LibraryAttribute.dll
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\refint\LibraryAttribute.dll
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\LibraryAttribute.pdb
+E:\хаб\proghub\attributes\LibraryAttribute\obj\Debug\net9.0\ref\LibraryAttribute.dll
